@@ -36,5 +36,6 @@ PS使用SDK来开发，相应代码在Software/Zynq文件夹中。
 
 - APP使用 APP Inventor 图形化编程工具开发。
 - 具体的逻辑见Software/Android/blocks.png图片。
+- 组件设计见Software/Android/component.png图片。
 - 因为ESP32使用的是BLE低功耗蓝牙，APP Inventor原生的蓝牙组件不支持BLE，所以需要使用BluetoothLE的Extension，在https://iot.appinventor.mit.edu/#/bluetoothle/bluetoothleintro中下载添加到Extension中，组件设计中都要使用它。
 
